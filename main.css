@@ -94,3 +94,15 @@ body{
     width: 100%;
     box-shadow: 2px 2px 10px black;
 }
+
+@media screen and (max-width: 800px){
+    .main_entries__entry {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 1600px){
+    .main_entries__entry {
+        width: 31%;
+    }
+}
