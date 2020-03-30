@@ -151,7 +151,8 @@ body{
 
 @media screen and (max-width: 800px){
     .main_entries__entry {
-        width: 90%;
+        width: 95%;
+        padding:5%;
     }
 }
 
